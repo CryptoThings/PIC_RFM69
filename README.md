@@ -23,4 +23,8 @@ After that, the Radiohead library can be used as usual.
 - The CRC used by the RFM69 is generated
 - It generates a packet that is compatible with the Radiohead library
 
+## The Hardware
+
+PIC Board: 
+https://oshpark.com/shared_projects/H4lJ3ypO
 
