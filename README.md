@@ -28,3 +28,6 @@ After that, the Radiohead library can be used as usual.
 PIC Board: 
 https://oshpark.com/shared_projects/H4lJ3ypO
 
+![Board Image](https://github.com/CryptoThings/PIC_RFM69/blob/master/IMG_5769.jpg)
+
+
